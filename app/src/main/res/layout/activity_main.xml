@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:background="@android:color/white"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-            app:title="@string/app_name">
+            app:title="Caixa de entrada">
         </androidx.appcompat.widget.Toolbar>
 
     </com.google.android.material.appbar.AppBarLayout>
